@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026101108279379&spm=Jlcpcb.Confirmorder.1001) | running all of the code and modules  (note: link expires in 7 days! Need to purchase quick) | 1 | $2.00 | $2.00 | [JLCPCB](https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026101108279379&spm=Jlcpcb.Confirmorder.1001) |
 | **Parts subtotal** | — | — | — | **$2.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$2.00** | — |
+| **Tax & shipping** | — | — | — | **$8.08** | — |
+| **Total** | — | — | — | **$10.08** | — |
 
-$63.00 left of the tier's funding.
+$54.92 left of the tier's funding.
