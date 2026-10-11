@@ -15,7 +15,7 @@
 | [PCB](https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026101108279379&spm=Jlcpcb.Confirmorder.1001) | running all of the code and modules  (note: link expires in 7 days! Need to purchase quick) | 1 | $2.00 | $2.00 | [JLCPCB](https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026101108279379&spm=Jlcpcb.Confirmorder.1001) |
 | [capacitors, switches, and resistors](https://www.lcsc.com/personalCenter/myProject/detail?id=B4210580EBF9AFA2B4096FBF770625DF) | manual inputs and voltage regulation | 1 | $5.71 | $5.71 | [LCSC](https://www.lcsc.com/personalCenter/myProject/detail?id=B4210580EBF9AFA2B4096FBF770625DF) |
 | **Parts subtotal** | — | — | — | **$7.71** | — |
-| **Tax & shipping** | — | — | — | **$8.08** | — |
-| **Total** | — | — | — | **$15.79** | — |
+| **Tax & shipping** | — | — | — | **$21.06** | — |
+| **Total** | — | — | — | **$28.77** | — |
 
-$49.21 left of the tier's funding.
+$36.23 left of the tier's funding.
