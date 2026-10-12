@@ -1,0 +1,24 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-TopLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BottomLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-TopPasteMaskLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BottomPasteMaskLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-TopSilkLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BottomSilkLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-TopSolderMaskLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BottomSolderMaskLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BoardOutLine.gbr'.
+Created Gerber job file 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-job.gbrjob'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-TopLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BottomLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-TopPasteMaskLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BottomPasteMaskLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-TopSilkLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BottomSilkLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-TopSolderMaskLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BottomSolderMaskLayer.gbr'.
+Plotted to 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-BoardOutLine.gbr'.
+Created Gerber job file 'C:\Users\madad\OneDrive\Documents\KiCad\ezyZip\ezyZip-job.gbrjob'.
+Info: Done.
+Info: Done.
